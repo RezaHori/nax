@@ -57,6 +57,8 @@ r.src="https://www.googletagmanager.com/gtm.
   <meta name="twitter:description"
     content="Owlto Finance is an intent-centric interoperability protocol, 'Bridge the World with AI Agent'." />
   <meta name="twitter:image" content="https://owlto.finance/icon/img/OwltoFinance4.jpg" />
+
+
   <meta property="og:url" content="https://owlto.finance" />
   <meta property="og:title" content="Owlto Finance" />
   <meta property="og:description"
