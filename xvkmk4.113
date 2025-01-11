@@ -23,10 +23,6 @@ r.src="https://www.googletagmanager.com/gtm.
             -webkit-animation: nprogress-spinner 400ms linear infinite;
         
 
-          .nprogress-custom-parent #nprogress .spinner,
-          .nprogress-custom-parent #nprogress .bar {
-            position: absolute;
-          }
 
           @-webkit-keyframes nprogress-spinner {
             0%   { -webkit-transform: rotate(0deg); }
