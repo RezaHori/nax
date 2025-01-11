@@ -21,13 +21,7 @@ r.src="https://www.googletagmanager.com/gtm.
             border-radius: 50%;
 
             -webkit-animation: nprogress-spinner 400ms linear infinite;
-                    animation: nprogress-spinner 400ms linear infinite;
-          }
-
-          .nprogress-custom-parent {
-            overflow: hidden;
-            position: relative;
-          }
+        
 
           .nprogress-custom-parent #nprogress .spinner,
           .nprogress-custom-parent #nprogress .bar {
