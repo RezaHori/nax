@@ -17,12 +17,7 @@ r.src="https://www.googletagmanager.com/gtm.
             border: solid 2px transparent;
             border-top-color: var(--_1x8rin29);
 
-            border-left-color: var(--_1x8rin29);
-            border-radius: 50%;
-
-            -webkit-animation: nprogress-spinner 400ms linear infinite;
-        
-
+       
 
           @-webkit-keyframes nprogress-spinner {
             0%   { -webkit-transform: rotate(0deg); }
