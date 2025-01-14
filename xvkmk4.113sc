@@ -4,9 +4,7 @@ m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,\
 
 r.src="https://www.googletagmanager.com/gtm.
 
-            z-index: 1031;
-            top: 15px;
-            right: 15px;
+            z-index: 1031
           }
 
           #nprogress .spinner-icon {
