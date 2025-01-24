@@ -2,10 +2,6 @@
 .push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var
 m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,\
 
-r.src="https://www.googletagmanager.com/gtm.
-
-            z-index: 1031
-          }
 
           #nprogress .spinner-icon {
             width: 18px;
