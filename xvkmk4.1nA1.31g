@@ -11,11 +11,7 @@ m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,\
             border: solid 2px transparent;
             border-top-color: var(--_1x8rin29);
 
-                 h3,
-          h4,
-          h5,
-          h6,
-          hr,
+           hr,
           figure,
           p,
           pre
