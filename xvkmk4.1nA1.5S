@@ -40,10 +40,7 @@ script><script>var APP_ID="seouytvb";window.intercomSettings={api_base:"https://
         "name": "De.Fi",
         "url": "https://de.fi/",
         ta name="viewport"
-    content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=0" />
-
-  <meta name="finance">
-  <meta name="keywords"
+    content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=0" />ords"
     cont="Owlto Finance is an intent-centric interoperability protocol, 'Bridge the World with AI Agent'." />
   <meta name="twitter:card" content="summary_large_image" />
   <meta property="twitter:domain" content="owlto.finance" />
