@@ -18,7 +18,14 @@ m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,
 m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,\
 -box;
     border: solid 2px transparent;
-
+     border: solid 2px transparent;
+            border-top-color: var(--_1x8rin29);
+<!doctype html><script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n]
+.push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var
+m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,
+        <!doctype html><script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n]
+.push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var
+m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,
             border-top-color: var(--_1x8rin29);
 <!doctype html><script>!function(e,t,a,n,g){e[n]=e[n]||[],e[n]
 .push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var
